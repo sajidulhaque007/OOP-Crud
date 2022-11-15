@@ -62,34 +62,4 @@ if(isset($_POST['delete'])){
 </form>
 <a href="index.php">Home</a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <?php include 'inc/footer.php'; ?>
